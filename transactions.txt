@@ -1,0 +1,68 @@
+[
+    {
+        "type": "income",
+        "date": "2024-10-25",
+        "source": "Projet de traduction freelance",
+        "amount": 400.0
+    },
+    {
+        "type": "income",
+        "date": "2024-10-28",
+        "source": "Salaire net de l'emploi principal",
+        "amount": 2500.0
+    },
+    {
+        "type": "income",
+        "date": "2024-11-02",
+        "source": "Service de correction freelance",
+        "amount": 300.0
+    },
+    {
+        "type": "income",
+        "date": "2024-11-05",
+        "source": "Commerce en ligne",
+        "amount": 1200.0
+    },
+    {
+        "type": "income",
+        "date": "2024-11-08",
+        "source": "Vente de porte cle artisanales",
+        "amount": 150.0
+    },
+    {
+        "type": "income",
+        "date": "2024-11-08",
+        "source": "Vente de service freelance",
+        "amount": 1000.0
+    },
+    {
+        "type": "expense",
+        "date": "2024-11-01",
+        "category": "Loyer",
+        "amount": 150.0
+    },
+    {
+        "type": "expense",
+        "date": "2024-11-06",
+        "category": "Provisions alimentaires",
+        "amount": 200.0
+    },
+    {
+        "type": "expense",
+        "date": "2024-11-07",
+        "category": "Transport",
+        "amount": 10.0
+    },
+    {
+        "type": "expense",
+        "date": "2024-11-08",
+        "category": "Loisir",
+        "amount": 30.0
+    },
+    {
+        "type": "expense",
+        "date": "2024-11-09",
+        "category": "Livres",
+        "amount": 10.0
+    }
+]
